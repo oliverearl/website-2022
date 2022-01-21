@@ -36,7 +36,7 @@ feature:
 - icon: vuejs
   icon_pack: fab
   name: Vue.js
-  description: 2.x, 3.x
+  description: 2.x - 3.x
 
 - icon: sass
   icon_pack: fab
