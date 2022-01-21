@@ -37,7 +37,7 @@ experience:
     company_logo: teacher
     location: Solihull, England
     date_start: '2021-01-01'
-    date_end: '2022"-01-01'
+    date_end: '2022-01-01'
     description: ''
 
   - title: Teacher of Computing
@@ -46,7 +46,7 @@ experience:
     company_logo: teacher
     location: Solihull, England
     date_start: '2020-01-01'
-    date_end: '2020"-12-01'
+    date_end: '2020-12-01'
     description: ''
 
   - title: Lecturer in Computer Science
