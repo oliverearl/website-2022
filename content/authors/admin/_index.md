@@ -1,5 +1,5 @@
 ---
-role: Software Engineer
+role: Software Engineer, CS Educator
 avatar_filename: oliver-earl-2.jpg
 bio: Oliver Earl is a full-stack software engineer, game developer, and
   qualified teacher of computer science from the UK.
