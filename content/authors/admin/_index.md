@@ -1,12 +1,12 @@
 ---
 role: Software Engineer
 avatar_filename: oliver-earl-2.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Oliver Earl is a full-stack software engineer, game developer, and
+  qualified teacher of computer science from the UK.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering
+  - Teaching
+  - Mental Health
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,6 +43,20 @@ highlight_name: true
 title: Oliver Earl
 email: ""
 ---
-Oliver Earl is a full-stack software engineer, game developer, and qualified teacher of computer science from the UK.
+Passionate about both programming and education, I consider myself a dual practitioner, bringing together proven industry experience as a software engineer upon a concrete academic foundation, multiple years of classroom teaching experience, and a wealth of pastoral knowledge acquired from years of well-recognised volunteerism within student welfare and support.
+
+## By day...
+
+I'm a full-stack software engineer at [Stickee Technology](https://www.stickeetechnology.com), with a serious interest in building robust and innovative experiences on the web and beyond.
+
+**Some of the technologies I love:** Laravel, Vue.js, Nuxt, Tailwind, and more recently, TypeScript and Inertia.js.
+
+## By night...
+
+After I almost passed away in 2021 from vaccine complications, I began work on [@ExtraContinue](https://www.extracontinue.com), an app that will help you take care of things should you ever disembark your mortal life prematurely.
+
+What started as a hobby project during the 2020 lockdown, I'm working on a multitude of upcoming video games under [Petrobolos Games](https://www.petrobolos.com) with the help of some friends.
+
+Mental health is a cause close to my heart. I volunteer a substantial amount of time to the [Nightline Association](https://www.nightline.ac.uk) as a Regional Coordinator, with the aim of ensuring all students in Wales have someone to talk to without judgment and in complete anonymity.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/oliverearl/cv/blob/master/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
