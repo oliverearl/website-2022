@@ -4,9 +4,9 @@ avatar_filename: oliver-earl-2.jpg
 bio: Oliver Earl is a full-stack software engineer, game developer, and
   qualified teacher of computer science from the UK.
 interests:
-  - Full-Stack Web and Game Development
+  - Web / Game Development
   - Software Engineering
-  - Linked Data and the Semantic Web
+  - Linked Data / Semantic Web
   - CS Teaching and Education
   - Mental Health Activism
 social:
