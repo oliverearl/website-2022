@@ -25,7 +25,7 @@ experience:
   - title: Developer
     company: Stickee Technology
     company_url: 'https://www.stickeetechnology.com'
-    company_logo: stickeeuk.png
+    company_logo: teacher
     location: Solihull, England
     date_start: '2022-01-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Junior Developer
     company: Stickee Technology
     company_url: 'https://www.stickeetechnology.com'
-    company_logo: stickeeuk.png
+    company_logo: teacher
     location: Solihull, England
     date_start: '2021-01-01'
     date_end: '2022"-01-01'
@@ -43,7 +43,7 @@ experience:
   - title: Teacher of Computing
     company: Arden Academy
     company_url: 'https://www.arden.solihull.sch.uk/'
-    company_logo: arden.jpeg
+    company_logo: teacher
     location: Solihull, England
     date_start: '2020-01-01'
     date_end: '2020"-12-01'
@@ -52,7 +52,7 @@ experience:
   - title: Lecturer in Computer Science
     company: Solihull College and University Centre
     company_url: 'https://www.solihull.ac.uk'
-    company_logo: solihull.jpeg
+    company_logo: lecturers
     location: Solihull, England
     date_start: '2019-10-01'
     date_end: '2019-12-01'
@@ -61,7 +61,7 @@ experience:
   - title: Postgraduate Demonstrator
     company: Aberystwyth University
     company_url: 'https://www.aber.ac.uk'
-    company_logo: aber.jpeg
+    company_logo: assistant
     location: Aberystwyth, Wales
     date_start: '2018-08-01'
     date_end: '2019-08-01'
@@ -70,7 +70,7 @@ experience:
   - title: Front-End Developer Intern
     company: Amadeus IT Group
     company_url: 'https://www.amadeus.com/de'
-    company_logo: amadeus.jpeg
+    company_logo: programmer
     location: Frankfurt-am-Main, Germany
     date_start: '2016-07-01'
     date_end: '2016-12-01'
