@@ -4,9 +4,11 @@ avatar_filename: oliver-earl-2.jpg
 bio: Oliver Earl is a full-stack software engineer, game developer, and
   qualified teacher of computer science from the UK.
 interests:
+  - Full-Stack Web and Game Development
   - Software Engineering
-  - Teaching
-  - Mental Health
+  - Linked Data and the Semantic Web
+  - CS Teaching and Education
+  - Mental Health Activism
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,7 +45,7 @@ highlight_name: true
 title: Oliver Earl
 email: ""
 ---
-Passionate about both programming and education, I consider myself a dual practitioner, bringing together proven industry experience as a software engineer upon a concrete academic foundation, multiple years of classroom teaching experience, and a wealth of pastoral knowledge acquired from years of well-recognised volunteerism within student welfare and support.
+Passionate about both programming and education, I consider myself a dual practitioner, bringing together multiple years of industry experience as a software engineer upon a concrete academic foundation, additional years of classroom teaching experience, and a wealth of pastoral knowledge acquired from volunteerism within student welfare.
 
 ## By day...
 
@@ -53,9 +55,9 @@ I'm a full-stack software engineer at [Stickee Technology](https://www.stickeete
 
 ## By night...
 
-After I almost passed away in 2021 from vaccine complications, I began work on [@ExtraContinue](https://www.extracontinue.com), an app that will help you take care of things should you ever disembark your mortal life prematurely.
-
 What started as a hobby project during the 2020 lockdown, I'm working on a multitude of upcoming video games under [Petrobolos Games](https://www.petrobolos.com) with the help of some friends.
+
+After I almost passed away in 2021 from vaccine complications, I began work on [ExtraContinue](https://www.extracontinue.com), an app that will help you take care of things should you ever disembark your mortal life prematurely.
 
 Mental health is a cause close to my heart. I volunteer a substantial amount of time to the [Nightline Association](https://www.nightline.ac.uk) as a Regional Coordinator, with the aim of ensuring all students in Wales have someone to talk to without judgment and in complete anonymity.
 
