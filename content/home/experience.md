@@ -22,28 +22,59 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Developer
+    company: Stickee Technology
+    company_url: 'https://www.stickeetechnology.com'
+    company_logo: stickeeuk
+    location: Solihull, England
+    date_start: '2022-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: ''
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Junior Developer
+    company: Stickee Technology
+    company_url: 'https://www.stickeetechnology.com'
+    company_logo: stickeeuk
+    location: Solihull, England
+    date_start: '2021-01-01'
+    date_end: '2022"-01-01'
+    description: ''
+
+  - title: Teacher of Computing
+    company: Arden Academy
+    company_url: 'https://www.arden.solihull.sch.uk/'
+    company_logo: arden
+    location: Solihull, England
+    date_start: '2020-01-01'
+    date_end: '2020"-12-01'
+    description: ''
+
+  - title: Lecturer in Computer Science
+    company: Solihull College and University Centre
+    company_url: 'https://www.solihull.ac.uk'
+    company_logo: solihull
+    location: Solihull, England
+    date_start: '2019-10-01'
+    date_end: '2019-12-01'
+    description: ''
+
+  - title: Postgraduate Demonstrator
+    company: Aberystwyth University
+    company_url: 'https://www.aber.ac.uk'
+    company_logo: aber
+    location: Aberystwyth, Wales
+    date_start: '2018-08-01'
+    date_end: '2019-08-01'
+    description: ''
+
+  - title: Front-End Developer Intern
+    company: Amadeus IT Group
+    company_url: 'https://www.amadeus.com/de'
+    company_logo: amadeus
+    location: Frankfurt-am-Main, Germany
+    date_start: '2016-07-01'
+    date_end: '2016-12-01'
+    description: ''
 
 design:
   columns: '2'
