@@ -26,7 +26,7 @@ experience:
     company: Stickee Technology
     company_url: 'https://www.stickeetechnology.com'
     company_logo: programmer
-    location: Solihull, England
+    location: Remote
     date_start: '2022-01-01'
     date_end: ''
     description: ''
@@ -35,7 +35,7 @@ experience:
     company: Stickee Technology
     company_url: 'https://www.stickeetechnology.com'
     company_logo: programmer
-    location: Solihull, England
+    location: Remote
     date_start: '2021-01-01'
     date_end: '2022-01-01'
     description: ''
