@@ -25,7 +25,7 @@ experience:
   - title: Developer
     company: Stickee Technology
     company_url: 'https://www.stickeetechnology.com'
-    company_logo: teacher
+    company_logo: programmer
     location: Solihull, England
     date_start: '2022-01-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Junior Developer
     company: Stickee Technology
     company_url: 'https://www.stickeetechnology.com'
-    company_logo: teacher
+    company_logo: programmer
     location: Solihull, England
     date_start: '2021-01-01'
     date_end: '2022-01-01'
