@@ -52,7 +52,7 @@ experience:
   - title: Lecturer in Computer Science
     company: Solihull College and University Centre
     company_url: 'https://www.solihull.ac.uk'
-    company_logo: lecturers
+    company_logo: lecturer
     location: Solihull, England
     date_start: '2019-10-01'
     date_end: '2019-12-01'
