@@ -5,7 +5,7 @@
 
 title: Oliver Earl # Website name
 baseurl: 'https://www.oliverearl.co.uk' # Website URL
-copyright: '© {year} Oliver Earl' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Oliver Earl. All rights reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
