@@ -24,26 +24,26 @@ For now:
 
 1) Clone the repository: (or download the [zip](https://github.com/oliverearl/php-hashnode))
 
-```
+```shell
 git clone https://github.com/oliverearl/php-hashnode.git
 ```
 
 2) Next, install its prerequisites using Composer:
 
-```
+```shell
 cd php-hashnode
 composer install
 ```
 
 3) Following that, you can include the program in your own PHP code by including its autoloader that can be found in the `vendor` directory.
 
-```
+```php
 require_once __DIR__ . '/vendor/autoload.php';
 ```
 
 4) A client instance and a root query object can then easily be instantiated like thus:
 
-```
+```php
 $client = new Hashnode();
 
 $query = new RootQuery();
@@ -51,7 +51,7 @@ $query = new RootQuery();
 
 You can also specify a custom endpoint, or your Hashnode API token by adding it as a parameter to the Hashnode constructor:
 
-```
+```php
 $client = new Hashnode('https://some-other-endpoint.hashnode.com', [
   'Authorization' => 'token-goes-here'
 ]);
