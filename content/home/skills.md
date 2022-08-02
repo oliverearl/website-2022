@@ -31,16 +31,16 @@ feature:
 - icon: laravel
   icon_pack: fab
   name: Laravel
-  description: 5.8 - 8.x
+  description: 5.8 - 9.x
 
 - icon: vuejs
   icon_pack: fab
   name: Vue.js
   description: 2.x - 3.x
 
-- icon: sass
+- icon: typescript
   icon_pack: fab
-  name: Sass
+  name: TypeScript
 
 - icon: linux
   icon_pack: fab
@@ -58,7 +58,7 @@ feature:
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
