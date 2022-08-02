@@ -38,7 +38,7 @@ feature:
   name: Vue.js
   description: 2.x - 3.x
 
-- icon: typescript
+- icon: code
   icon_pack: fab
   name: TypeScript
 
