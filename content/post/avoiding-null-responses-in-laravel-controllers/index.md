@@ -1,6 +1,6 @@
 ---
 title: Avoiding null responses in Laravel controllers
-date: 2022-08-10T23:21:27.597Z
+date: 2022-08-09T23:21:27.597Z
 draft: false
 featured: false
 image:
