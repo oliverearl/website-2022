@@ -31,6 +31,6 @@ Of course, Laravel is still able to work with this. It'll send a default respons
 
 As you can see though, we're making assumptions. Did the developer *actually* intend to return nothing, and is a 200 status code the most applicable in this scenario? What if Laravel's behaviour changes in later revisions? This means we'd have to check for any controllers that return void and potentially change their behaviour, and/or the implementations that work with them.
 
-So what in my opinion should you do in this situation? Simply responding with an empty response, or even better, with a ```response()->noContent()` would be more *explicit* about what you intend to do to all involved. Better than a comment, and better than relying on default behaviours.
+So what in my opinion should you do in this situation? Simply responding with an empty response, or even better, with a `response()->noContent()` would be more *explicit* about what you intend to do to all involved. Better than a comment, and better than relying on default behaviours.
 
 Just my two cents about void controllers, and would love to hear from other developers who agree or disagree and why!
