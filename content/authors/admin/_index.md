@@ -21,7 +21,7 @@ social:
   - display:
       header: false
     icon_pack: ai
-    link: https://github.com/oliverearl/cv/blob/master/cv.pdf
+    link: https://github.com/oliverearl/resume-2022/blob/build/cv.pdf
     icon: cv
 organizations:
   - name: Stickee Technology
@@ -62,4 +62,4 @@ After being severely unwell with COVID-19, I began work on [ExtraContinue](https
 
 Lastly, I'm hoping to some day release numerous video games written in Godot under my indie game studio, [Petrobolos](https://www.petrobolos.com). Emphasis on some day!
 
-{{< icon name="download" pack="fas" >}} Sound good? Download my {{< staticref "https://github.com/oliverearl/cv/blob/master/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Sound good? Download my {{< staticref "https://github.com/oliverearl/resume-2022/blob/build/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
